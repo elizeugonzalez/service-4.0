@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Andiroba Essential Oil",
+    "description": "Pure oil ideal for skin care and relaxation.",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1583573636242-9bfc3837b993?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Açaí Facial Cream",
+    "description": "Cream rich in antioxidants for a youthful glow.",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1597330843682-2dbf1e1ac6dd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Buriti Oil Serum",
+    "description": "Vitamin-packed serum that hydrates deeply.",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Cupuaçu Body Butter",
+    "description": "Intensely hydrating butter that softens skin.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Copaíba Oil Balm",
+    "description": "Soothing balm for massage and relief.",
+    "price": 22.99,
+    "image": "https://images.unsplash.com/photo-1611080626919-7aaed1de559d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Guaraná Energy Supplement",
+    "description": "Natural stimulant derived from guaraná seeds.",
+    "price": 17.99,
+    "image": "https://images.unsplash.com/photo-1587500151711-22a92799d804?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Brazil Nut Hair Mask",
+    "description": "Deep conditioning treatment for shiny hair.",
+    "price": 26.99,
+    "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Pracaxi Hair Oil",
+    "description": "Lightweight oil that strengthens hair.",
+    "price": 21.99,
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Castanha Scrub",
+    "description": "Exfoliating scrub with Brazil nut particles.",
+    "price": 23.99,
+    "image": "https://images.unsplash.com/photo-1556229010-aa3d349c9725?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Murumuru Moisturizing Lotion",
+    "description": "Lotion that leaves skin silky smooth.",
+    "price": 18.99,
+    "image": "https://images.unsplash.com/photo-1596461404969-f0e78e5fcc04?auto=format&fit=crop&w=800&q=80"
+  }
+]
